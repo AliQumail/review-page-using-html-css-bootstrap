@@ -1,0 +1,47 @@
+html body{
+   background-color:  #F7F3F7
+}
+.container{
+   background-color:  #F7F3F7  ;
+   margin:7% auto;
+}
+.checked{
+color:orange;
+}
+.factsSection{
+  text-align: center;
+  margin:15px;
+  padding-bottom:10px;
+  padding-top:10px;
+  background-color: #F6E1F6;
+  width:450px;
+  border-radius: 8%;
+}
+.reviewSection{
+  background-color: #6B306B;
+  color:white;
+  margin:20px ;
+  margin-left:20px;
+  margin-right:20px;
+  padding:25px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 7%;
+  text-align: center;
+  width:318px;
+
+}
+h2 {
+  color:purple;
+}
+img{
+  height :70px;
+  width:70px;
+  border-radius: 50%;
+}
+.review{
+  margin:5px;
+}
+.reviewSectionRow{
+  margin-top: 20px;
+}
